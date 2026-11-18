@@ -1,1 +1,0 @@
-Replace the files in your existing gaius-reports repository with these files, commit to main, then wait for GitHub Actions deployment. On iPhone open the Pages link in Safari and choose Share > Add to Home Screen.
